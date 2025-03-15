@@ -6,3 +6,4 @@ print(ext)
 
 
 #En este programa lo que logra imprimir o (extrae) lo solicitado la posicion hasta su final, dato importante toma un valor antes del digito solicitado
+fg

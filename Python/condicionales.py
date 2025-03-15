@@ -20,4 +20,4 @@ suma = int(suma)
 if suma >= 6:
     print("Felicidades", nom ,"aprobaste con un promedio de:", suma )
 
-print("Fin.")
+print("Fin.") 
